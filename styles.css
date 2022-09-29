@@ -1,4 +1,6 @@
 body {
-  font-family: Courier, serif, monospace;
-  font-size: 6em;
+  font-family: "Courier Prime", monospace, serif;
+  font-size: min(10vw, 30vh, 10em);
+  text-align: center;
+  margin: min(5vw, 15vh, 5em);
 }
